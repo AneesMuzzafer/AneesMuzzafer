@@ -7,17 +7,15 @@ I work as a **Assistant Engineer (Telecom)** at **[Powergrid Corporation of Indi
 Connect
 -------
 
-[![Anees's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afaanbilal)
-[![Afaan's Medium](https://img.shields.io/badge/medium-%23dedede.svg?&style=for-the-badge&logo=medium&logoColor=black)](https://afaan.medium.com)
-[![Afaan's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/AfaanBilal)
+[![Anees's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneesmuzzafer/)
 
 GitHub Stats
 ------------
-[![Afaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AfaanBilal&theme=radical)](https://afaan.dev)
+![Anees's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AneesMuzzafer&theme=radical)
 
-[![Afaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfaanBilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://afaan.dev)
+![Anees's GitHub stats](https://github-readme-stats.vercel.app/api?username=AneesMuzzafer&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-[![Afaan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaanBilal&theme=radical&layout=compact&langs_count=10)](https://afaan.dev)
+![Anees's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AneesMuzzafer&theme=radical&layout=compact&langs_count=10)
 
 Tech Stack
 ----------
