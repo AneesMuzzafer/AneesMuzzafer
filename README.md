@@ -2,7 +2,7 @@
 
 #### I'm **Anees Muzzafer**, a Software and Telecommunications Engineer from Srinagar, Kashmir.
 
-I work as a **Assistant Engineer** at **[Powergrid Corporation of India Limited](https://www.powergrid.in/)**
+I work as an **Assistant Engineer** at **[Powergrid Corporation of India Limited](https://www.powergrid.in/)**
 
 Connect
 -------
